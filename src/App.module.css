@@ -1,0 +1,9 @@
+.logo {
+    font-size: clamp(5vw, 8rem, 7vw);
+    font-family: 'TT Norms';
+    text-align: center;
+    background-image: linear-gradient(to left, #283593, #4527a0, #1565c0, #00838f);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
